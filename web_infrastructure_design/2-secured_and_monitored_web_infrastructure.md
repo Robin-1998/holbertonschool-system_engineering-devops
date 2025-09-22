@@ -1,6 +1,5 @@
 # secure web infrastructure
 ![infrastructure secure](../Secured_web_infrastructure.png)
- Secured_web_infrastructure
 ## Why each additional element is added:
 3 Firewalls: Each server needs its own firewall to control network access and block unauthorized traffic - only allowing HTTP/HTTPS ports.
 SSL Certificate: Enables HTTPS encryption for www.foobar.com to protect data transmission and establish trust with users.
